@@ -1,0 +1,348 @@
+body{
+    background-color: lightgray;
+    display: flex;
+    flex-wrap: wrap; 
+}
+.house{
+    border: 1px solid white;
+    border-radius: 13px;
+    padding: 2px;
+    padding-bottom: 2px;
+    font-size: 35px;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    padding-top: 35px;
+    color: black;
+    margin-top: 35px;
+    margin-bottom: 10px;
+    background-color: white;
+    margin: 25px;
+}
+.magnifying{
+    border: 1px solid white;
+    border-radius: 13px;
+    padding: 2px;
+    padding-bottom: 5px;
+    font-size: 40px;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    padding-top: 35px;
+    color: black;
+    margin-top: 35px;
+    margin-bottom: 10px;
+    background-color: white; 
+    margin: 25px;
+}
+.text{
+    font-size: 15px;
+    margin-bottom: 5px;
+    padding-top: 20px;
+    background-color: white;
+}
+.user-1{
+    border: 1px solid white;
+    border-radius: 13px;
+    padding: 2px;
+    padding-bottom: 5px;
+    font-size: 40px;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    padding-top: 35px;
+    color: black;
+    margin-top: 35px;
+    margin-bottom: 10px;
+    background-color: white; 
+    margin: 25px;
+}
+.user-2{
+    border: 1px solid white;
+    border-radius: 13px;
+    padding: 2px;
+    padding-bottom: 5px;
+    font-size: 40px;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    padding-top: 35px;
+    color: black;
+    margin-top: 35px;
+    margin-bottom: 10px;
+    background-color: white; 
+    margin: 25px;
+}
+.facebook{
+    border: 1px solid white;
+    border-radius: 13px;
+    padding: 2px;
+    padding-bottom: 5px;
+    font-size: 40px;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    padding-top: 35px;
+    color: black;
+    margin-top: 35px;
+    margin-bottom: 10px;
+    background-color: white; 
+    margin: 25px;
+}
+.check{
+    border: 1px solid white;
+    border-radius: 13px;
+    padding: 2px;
+    padding-bottom: 5px;
+    font-size: 40px;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    padding-top: 35px;
+    color: black;
+    margin-top: 35px;
+    margin-bottom: 10px;
+    background-color: white; 
+    margin: 25px;
+}
+.download{
+    border: 1px solid white;
+    border-radius: 13px;
+    padding: 2px;
+    padding-bottom: 5px;
+    font-size: 40px;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    padding-top: 35px;
+    color: black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: white; 
+    margin: 25px;
+}
+.twitter{
+    border: 1px solid white;
+    border-radius: 13px;
+    padding: 2px;
+    padding-bottom: 5px;
+    font-size: 40px;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    padding-top: 35px;
+    color: black;
+    margin-top: -10px;
+    margin-bottom: 10px;
+    background-color: white; 
+    margin: 25px;
+}
+.image{
+    border: 1px solid white;
+    border-radius: 13px;
+    padding: 2px;
+    padding-bottom: 5px;
+    font-size: 40px;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    padding-top: 35px;
+    color: black;
+    margin-top: -10px;
+    margin-bottom: 10px;
+    background-color: white; 
+    margin: 25px;
+}
+.instagram{
+    border: 1px solid white;
+    border-radius: 13px;
+    padding: 2px;
+    padding-bottom: 5px;
+    font-size: 40px;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    padding-top: 35px;
+    color: black;
+    margin-top: -10px;
+    margin-bottom: 10px;
+    background-color: white; 
+    margin: 25px; 
+}
+.phone{
+    border: 1px solid white;
+    border-radius: 13px;
+    padding: 2px;
+    padding-bottom: 5px;
+    font-size: 40px;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    padding-top: 35px;
+    color: black;
+    margin-top: -10px;
+    margin-bottom: 10px;
+    background-color: white; 
+    margin: 25px;  
+}
+.tiktok{
+    border: 1px solid white;
+    border-radius: 13px;
+    padding: 2px;
+    padding-bottom: 5px;
+    font-size: 40px;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    padding-top: 35px;
+    color: black;
+    margin-top: -10px;
+    margin-bottom: 10px;
+    background-color: white; 
+    margin: 25px;
+}
+.bar{
+    border: 1px solid white;
+    border-radius: 13px;
+    padding: 2px;
+    padding-bottom: 5px;
+    font-size: 40px;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    padding-top: 35px;
+    color: black;
+    margin-top: -10px;
+    margin-bottom: 10px;
+    background-color: white; 
+    margin: 25px;
+}
+.envelope{
+    border: 1px solid white;
+    border-radius: 13px;
+    padding: 2px;
+    padding-bottom: 5px;
+    font-size: 40px;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    padding-top: 35px;
+    color: black;
+    margin-top: -10px;
+    margin-bottom: 10px;
+    background-color: white; 
+    margin: 25px;  
+}
+.linkedin{
+    border: 1px solid white;
+    border-radius: 13px;
+    padding: 2px;
+    padding-bottom: 5px;
+    font-size: 40px;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    padding-top: 35px;
+    color: black;
+    margin-top: -10px;
+    margin-bottom: 10px;
+    background-color: white; 
+    margin: 25px;
+}
+.star{
+    border: 1px solid white;
+    border-radius: 13px;
+    padding: 2px;
+    padding-bottom: 5px;
+    font-size: 40px;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    padding-top: 35px;
+    color: black;
+    margin-top: -10px;
+    margin-bottom: 10px;
+    background-color: white; 
+    margin: 25px;
+}
+.location{
+    border: 1px solid white;
+    border-radius: 13px;
+    padding: 2px;
+    padding-bottom: 5px;
+    font-size: 40px;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    padding-top: 35px;
+    color: black;
+    margin-top: -10px;
+    margin-bottom: 10px;
+    background-color: white; 
+    margin: 25px;
+}
+.github{
+    border: 1px solid white;
+    border-radius: 13px;
+    padding: 2px;
+    padding-bottom: 5px;
+    font-size: 40px;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    padding-top: 35px;
+    color: black;
+    margin-top: -10px;
+    margin-bottom: 10px;
+    background-color: white; 
+    margin: 25px;
+}
+.music{
+    border: 1px solid white;
+    border-radius: 13px;
+    padding: 2px;
+    padding-bottom: 5px;
+    font-size: 40px;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    padding-top: 35px;
+    color: black;
+    margin-top: -10px;
+    margin-bottom: 10px;
+    background-color: white; 
+    margin: 25px;  
+}
+.wand{
+    border: 1px solid white;
+    border-radius: 13px;
+    padding: 2px;
+    padding-bottom: 5px;
+    font-size: 40px;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    padding-top: 35px;
+    color: black;
+    margin-top: -10px;
+    margin-bottom: 10px;
+    background-color: white; 
+    margin: 25px; 
+    
+}
+.heart{
+    border: 1px solid white;
+    border-radius: 13px;
+    padding: 2px;
+    padding-bottom: 5px;
+    font-size: 40px;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    padding-top: 35px;
+    color: black;
+    margin-top: -10px;
+    margin-bottom: 10px;
+    background-color: white; 
+    margin: 25px;  
+}
